@@ -59,7 +59,7 @@ Before running the UOMI Auto Bot, ensure you have the following:
    Create a `.env` file in the project root and add the following:
    ```plaintext
    RPC_URL=https://finney.uomi.ai
-   PRIVATE_KEY=your_private_key_here
+   PRIVATE_KEY=your_private_key_here(without 0x prefix)
    WALLET_ADDRESS=your_wallet_address_here
    ```
 
