@@ -155,7 +155,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- **Creator**: irdropper ([t.me/irdropper](https://t.me/irdropper))
+- **Creator**: [irdropper](https://t.me/irdropper)
 - **UOMI Testnet**: For providing the infrastructure to test this bot.
 - **Open-Source Libraries**: Thanks to `web3.py`, `colorama`, and `python-dotenv` for powering this project.
 
